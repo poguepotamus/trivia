@@ -1,0 +1,25 @@
+[
+	{
+		"prompt": "Which of the following are an electric pokemon?",
+		"answer": "Pikachu",
+		"decoys": [
+			"Whooper",
+			"Eevee",
+			"Bulbasaur"
+		]
+	}, {
+
+		"prompt": "What fast food chain once used the slogan 'Think outside the bun'?",
+		"answer": "Taco Bell",
+		"decoys": [
+			"McDonalds",
+			"Burger King",
+			"Burger King",
+			"Burger King",
+			"Burger King",
+			"Burger King",
+			"Burger King",
+			"Arby's"
+		]
+	}
+]
